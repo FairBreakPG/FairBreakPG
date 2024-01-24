@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=Hi%2C+I'm+Michelle+Welcome%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DF756&random=false&width=435&lines=Hi%2C++I%C2%B4m+Andres+Santana%2C+Welcome)](https://git.io/typing-svg))
 
-### Frontend and Mobile Developer👩🏻‍💻
+### Front end Developer & Back end Developer👩🏻‍💻
 I'm passionate about programming and design, both worlds converge to allow me to connect with my most creative and organized part. I love being able to bring solutions to the world through the creation of digital products. 
 
 ```js
