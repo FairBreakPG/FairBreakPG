@@ -3,11 +3,9 @@
 ### Developer Jr👩🏻‍💻
 ```js
 
-const Michelle = {
-  code: [HTML, CSS, Bootstrap, Saas, Javascript, React, Nodejs],
-  tools: [Git, GitHub, Jest, Docker, Postman, Firebase, MongoDB],
-  design: [Figma, AdobeXD, Miro, InVision],
-  challenge: "Learning Kotlin and Swift to become a mobile developer",
+Stack = {
+  code: [HTML, CSS, Bootstrap, Typescript, Angular],
+  tools: [Git, GitHub, Jest, Docker, Postman, Firebase, MongoDB]
 }
 ```
 
