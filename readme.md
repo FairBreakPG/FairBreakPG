@@ -10,7 +10,7 @@ Stack = {
 ```
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FairBreakPG&show_icons=true&theme=radical)
 
-![Uploading hk-codin.gif…]()
 
 
