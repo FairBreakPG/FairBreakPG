@@ -25,11 +25,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,angular,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,angular,mysql&perline=14" />
   </a>
 </p>
-
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">learning these technologies👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nestjs,express,nextjsl&perline=14" />
+  </a>
+</p>
 
 <div id="user-content-toc">
   <ul align="center">
