@@ -9,8 +9,7 @@ Stack = {
 }
 ```
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FairBreakPG&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairBreakPG&hide_progress=false&theme=dark)
+
 
 <!--Actualizacion  de readme-->
 <!--horizontal divider(gradiant)-->
@@ -30,6 +29,8 @@ Stack = {
        alt="snake" /></a>
 </div>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FairBreakPG&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairBreakPG&hide_progress=false&theme=dark)
 
 <!--h2 without bottom border
 <div id="user-content-toc">
