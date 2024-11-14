@@ -8,13 +8,6 @@
   </ul>
 </div>
 
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FairBreakPG&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairBreakPG&hide_progress=false&theme=dark)
   
 <div id="user-content-toc">
